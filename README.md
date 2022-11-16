@@ -1,5 +1,8 @@
 # Node.js Challenge: Professional README Generator
 
+Screen castify video link: https://drive.google.com/file/d/1gD-Az3apfN8cVP5s1EkBcouFnR1IgJq7/view
+Github repository link: https://github.com/maggierdelaney/nodejs-homework
+
 ## Description
 
 This project called for me to create a command-line application that dynamically generates a professional README.md file from a user's input.
